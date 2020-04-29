@@ -3,29 +3,21 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Tommi Sundqvist
+title: Business lawyer in IT sector, Investor.
+email: tommi.sundqvist@protonmail.com
+phone: +358401751981
+website: https://github.com/toMySun
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+twitter_username: promercatoria
+github_username:  toASun
+stackoverflow_username: "760356"
+linkedin_username: tommi-sundqvist-b675471a6
+
 
 # Additional icon links
 additional_links:
@@ -46,13 +38,26 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Everything IT. Business dev., Lawyer. Dad of 4. Geek.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+ - 2008 Masters Degree in Business Administration.
+
+ - 2008 Started working in Financial Sector - insurance services and tax planning. Specialist, Service 		Manager @ Mandatum. Learned SaaS, project management, business development. UI testing, main user 		during test phase in new insurance management software. Learned testing automation, scrum, 		python, javascript, REST etc. 
+
+ - 2012 -> Software development manager and technology start-up investments in private legal office. 
+
+ - 2018 Masters Degree in Law. Yay!  IT Lawyer, Cum Laude (gpa 5.0) 
+
+ - 2012-2019 Entrepreneur. Legal services for businesses in Technology Sector. Manager and CIO in a Legal 	Firm specialized in financing and investments in new technologies.
+
+
+ - 2020 -> 
+  	private investor. 
+
+	Studying data sciences further - inter alia python, javascript, finvoice(XML)  Writing on legal 	framework on technology sector
+	working on online food delivery applications.
+
+
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -66,9 +71,15 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+Interested in European regulatory development in IT, taxation on Cryptocurrencies etc. 
+
+Looking for gamechanger collaboration & groundbreaking projects.
+
+Do not hesitate to contact if you like to ask about business law, taxation or regulation. You can contact me if you visit Slush (I'm there every year) or if you have some collaboration in mind. 
+
+I do also mine altcoins, invest in bitcoin, stocks and commodity futures.
 
 # Footer
 footer_show_references: true
