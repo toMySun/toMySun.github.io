@@ -49,8 +49,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   <mark>2018</mark> Masters Degree in Law. Yay!  IT Lawyer, Cum Laude (gpa 5.0) 
 
-<mark>2012-2019</mark> Entrepreneur. Legal services for businesses in Technology Sector. Manager and CIO in a Legal Firm specialized in financing and investments in new technologies. 
-<mark>2020</mark> Private investor. Studying data sciences further. Writing on legal framework regulating  disruptive technologies. Working on online food delivery applications.
+  <mark>2012-2019</mark> Entrepreneur. Legal services for businesses in Technology Sector. Manager and CIO in a Legal Firm specialized in financing and investments in new technologies. 
+  <mark>2020</mark> Private investor. Studying data sciences further. Writing on legal framework regulating  disruptive technologies. Working on online food delivery applications.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
