@@ -1,31 +1,23 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: toMySun/toMySun.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
 name: Tommi
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+title: Investor, CEO.
+email: tommi.sundqvist@protonmail.com
+phone: +358401751981
+website: github.com/toMySun/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+twitter_username: promercatoria
+github_username:  toASun
+stackoverflow_username: ToASun
+linkedin_username: tommi-sundqvist-b675471a6
+
 
 # Additional icon links
 additional_links:
@@ -47,11 +39,14 @@ additional_links:
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  Everything IT. Business dev., Lawyer. Dad of 4. Geek.
+  <mark>2008</mark> Masters Degree in Business Administration.
+  2008 Started working in Financial Sector.
+  Specialist, Service Manager @ Mandatum. 
+  Main responsibilities were Project management, Main User in new software. UI testing.
+  2012 Software development manager and technology start-up investments in private legal office.
+  2018 Masters Degree in Law. Yay!  IT Lawyer, Cum Laude (gpa 5.0) - 2012-2019 Entrepreneur. Legal    services for businesses in Technology Sector. Manager and CIO in a Legal 	Firm specialized in financing and investments in new technologies. - 2020 -> private investor. Studying data sciences further. Writing on legal framework regulating  disruptive technologies. Working on online food delivery applications.
+
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
@@ -64,8 +59,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  Interested in European regulatory development in IT, taxation on Cryptocurrencies etc. Looking for gamechanger collaboration & groundbreaking projects. Do not hesitate to contact if you like to ask about business law, taxation or regulation. You can contact me if you visit Slush (I'm there every year) or if you have some collaboration in mind. Aside from working on everything about business law in technology sector, I am a investor and visit regularly Estonia mainly due to the start-up landscape in crypto and blockchain technologies.
 # Footer
 footer_show_references: true
 
@@ -91,97 +85,5 @@ exclude : [
   "lib/",
   "scripts/",
   "docker-compose.yml",
-  ]# Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
-
-# Personal info
-name: Tommi
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
-
-# Dark Mode (true/false/never)
-darkmode: false
-
-# Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
-# About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
-about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
-
-# Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
-
-# Education Section
-# education_title: Education #(Use this to override about education section title)
-
-# More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-# Footer
-footer_show_references: true
-
-# Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-plugins:
- - jekyll-seo-tag
-
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
+ 
   ]
