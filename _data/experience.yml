@@ -1,10 +1,28 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
+  company: Mandatum Life
+  link: www.mandatum.fi
+  job_title: Specialist, Service Manager
+  dates: 2008 - 2012
+  quote: >
+   One of the leading Investment and Insurance Companies in Finland. Member of the Sampo Group.
+  description: | # this will include new lines to allow paragraphs
+    Main User of developed software. UI testing and service management. Team Leader in VIP Customer Team.
+
+  company: Lakiasiaintoimisto A.T.
+  link: -
+  job_title: Head of Investment, Head of Development.
   dates: Date Range (eg. November 2016 - present)
   quote: >
-   Short description of the company (optional)
+   Legal Office specialising in technology start-up investments and financing.
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Management of Investment Portfolio. Development of Financing Services. Supporting Portfolio Companies.
+
+  company: Pro Mercatoria L.A.B.
+  link: -
+  job_title: Entrepreneur, CEO.
+  dates: 2006 - 
+  quote: >
+   Investment Company with legal services for Technology Businesses. Specialized in Taxation and regulation of disruptive technologies.
+  description: | # this will include new lines to allow paragraphs
+    Owner.

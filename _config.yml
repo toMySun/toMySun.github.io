@@ -3,8 +3,8 @@ repository: toMySun/toMySun.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Tommi
-title: Investor, CEO.
+name: Tommy Sundqvist
+title: Business & IT Lawyer. Investor, Entrepreneur.
 email: tommi.sundqvist@protonmail.com
 phone: +358401751981
 website: github.com/toMySun/
@@ -45,11 +45,12 @@ about_content: | # this will include new lines to allow paragraphs
 
   <mark>2008</mark> Started working in Financial Sector. Inter alia Specialist, Service Manager @ Mandatum. Main responsibilities were Main User in new software. Testing Manager.
 
-  <mark>2012</mark> Software development manager and technology start-up investments in private legal office.
+  <mark>2012</mark> APV1 Certificate (Investment Advisor) Software development manager and technology start-up investments in private legal office. 
 
-  <mark>2018</mark> Masters Degree in Law. Yay!  IT Lawyer, Cum Laude (gpa 5.0) 
+  <mark>2015</mark> Masters Degree in Law. Yay!  IT Lawyer, Cum Laude (gpa 5.0) 
 
-  <mark>2012-2019</mark> Entrepreneur. Legal services for businesses in Technology Sector. Manager and CIO in a Legal Firm specialized in financing and investments in new technologies. 
+  <mark>2012-2019</mark> Entrepreneur. Legal services for businesses in Technology Sector. Manager and CIO in a Legal Firm specialized in financing and investments in new technologies.
+ 
   <mark>2020</mark> Private investor. Studying data sciences further. Writing on legal framework regulating  disruptive technologies. Working on online food delivery applications.
 
 # Projects Section
