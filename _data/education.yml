@@ -6,15 +6,15 @@
   quote: > # Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
    
-  name1: Tallin Law School. 
-  dates1: 2011 - 2015
-  qualification1: LL.M. in IT Law
-  quote1: > # Short institution or course description (optional)
-  description1: | # this will include new lines to allow paragraphs
+  name: Tallin Law School. 
+  dates: 2011 - 2015
+  qualification: LL.M. in IT Law
+  quote: > # Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
    
-  name2: Aalto Executive Education 
-  dates2: 2012
-  qualification2: APV1. Investment Advisor certificate.
-  quote2: > # Short institution or course description (optional)
-  description2: | # this will include new lines to allow paragraphs
+  name: Aalto Executive Education 
+  dates: 2012
+  qualification: APV1. Investment Advisor certificate.
+  quote: > # Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
    
