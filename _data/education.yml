@@ -5,16 +5,14 @@
   qualification: BA in Business Administration
   quote: > # Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-   
-  name: Tallin Law School. 
-  dates: 2011 - 2015
-  qualification: LL.M. in IT Law
-  quote: > # Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-   
   name: Aalto Executive Education 
   dates: 2012
   qualification: APV1. Investment Advisor certificate.
+  quote: > # Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+  name: Tallin Law School. 
+  dates: 2011 - 2015
+  qualification: LL.M. in IT Law
   quote: > # Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
    
